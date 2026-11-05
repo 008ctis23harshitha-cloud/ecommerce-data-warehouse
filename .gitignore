@@ -1,0 +1,12 @@
+# source data is large, download it separately
+data/*.sqlite
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+# editor / OS
+.vscode/
+.DS_Store
