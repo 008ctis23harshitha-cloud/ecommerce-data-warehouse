@@ -1,9 +1,3 @@
--- Olist E-Commerce Data Warehouse: star schema (MySQL 8 / MySQL Workbench)
--- Run in Workbench: File > Open SQL Script > create_schema.sql > lightning bolt
---
--- Facts:       fact_order_items (grain: one order item), fact_payments, fact_reviews
--- Dimensions:  dim_customer, dim_seller, dim_product, dim_date
-
 CREATE DATABASE IF NOT EXISTS olist_dw;
 USE olist_dw;
 
