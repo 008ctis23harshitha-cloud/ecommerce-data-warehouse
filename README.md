@@ -126,23 +126,6 @@ Enter your MySQL username (default `root`), your password (typing is hidden) and
 
 Orders with status `canceled` or `unavailable` are excluded from revenue analysis.
 
-### Sample results
-
-**Monthly revenue and growth (Q1)**
-
-![Monthly revenue](docs/q1_monthly_revenue.png)
-
-**Top product categories (Q3)**
-
-![Top categories](docs/q3_top_categories.png)
-
-**Delivery performance by state (Q7)**
-
-![Delivery by state](docs/q7_delivery_by_state.png)
-
-**Customer segments (Q11)**
-
-![Customer segments](docs/q11_customer_segments.png)
 
 ## Design decisions
 
